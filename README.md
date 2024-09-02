@@ -2,7 +2,7 @@
 
 ## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
 
-I'm Sumon, a Frontend Web Application Developer from <img src="assets/banner.png" width="18"/> Bangladesh. I Spend most of time coding outstanding projects.
+I'm Sumon, a Frontend Web Application Developer from <img src="assets/github-banner.png" width="18"/> Bangladesh. I Spend most of time coding outstanding projects.
 
 :coffee: &emsp;Connect with me!
 
