@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Next.js<br>💬 Ask me about React, JavaScript, Redux
+🌱 I’m currently learning Next.js<br>💬 JavaScript Developer - Reactjs | Nextjs
 
 
 # 💻 Tech Stack:
